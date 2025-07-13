@@ -1,2 +1,16 @@
-# syst-me-de-gestion-des-pr-sences-par-code-QR
-Système de gestion de présence par code QR, avec Spring Boot, Angular, Flutter, MySQL et Python. Interfaces pour admin, RH, manager, employés. Authentification via JWT, envoi d'identifiants par mail, scan QR avec app mobile, dashboards dynamiques via Chart.js.
+# user
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
